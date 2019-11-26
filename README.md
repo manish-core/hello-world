@@ -1,0 +1,3 @@
+# hello-world
+my first repository.........
+This file will contain my experiences and my thoughts about the computer world. 
